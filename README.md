@@ -1,3 +1,3 @@
-# yazilimci-gelistirme-kampi
+# yazilimci-gelistirme-kampi-backend
 
-Engin Demiroğ .NET project
+Engin Demiroğ .NET Camp Backend
